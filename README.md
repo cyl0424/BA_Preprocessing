@@ -18,7 +18,7 @@
   : master_final.ipynb를 이용해 모든 데이터의 'stn_gu'가 적절히 추가된 데이터
 
 
-##  master_info_with_nearby.csv
+##  master_final.csv
 - **stn_id** : 대여소 id를 나타내며 object 타입임
 - **stn_addr** : 대여소의 주소 전체를 나타내며 object 타입임
 - **stn_lat** : 대여소의 latitude를 나타내며 float64 타입임
